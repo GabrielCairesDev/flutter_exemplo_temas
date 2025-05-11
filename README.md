@@ -39,3 +39,5 @@ flutter run
 ## 🔗 Medium
 
 [Ler no Medium](https://medium.com/@gabriel.araujo.caires/flutter-um-app-v%C3%A1rios-temas-d521333c95dd)
+
+![Preview do app com múltiplos temas](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*oevSok8Jh0vFFlb5F8OkeQ.png)
